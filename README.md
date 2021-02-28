@@ -1,5 +1,5 @@
 <h1 align="center">
-    Move.it 1.0 | NLW#4
+    Moving.it 2.0 | NLW#4
 </h1>
 <p align="center"> Application developed for the Rocketseat's Next Level Week 04 | 💻🚀 </p>
 
@@ -74,7 +74,7 @@ Usando os comandos git
 
 <img src="https://github.com/deboraMdaGama.png" width="85px" height="85px" alt=""></img> 
 
-<a href="https://www.linkedin.com/in/debora-gama/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614468549~hmac=f403ff89bc68d2a9b2ae3c11a7b7bd5c" alt="Linkedin" width="25" /> Débora Gama.</a>
+<a href="https://www.linkedin.com/in/debora-gama/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614544378~hmac=f092c12c1d746b28c34406a44fdd9e68" alt="Linkedin" width="25" /> Débora Gama.</a>
   
 
 
