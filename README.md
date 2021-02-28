@@ -65,10 +65,10 @@ http://localhost:3000
 ```bash
 Usando os comandos git
 ```
-- Fork o projeto;
-- Crie a sua branch: `git checkout -b my-feature`;
-- Envie as mudanças que você fez: `git commit -m 'feat: My new feature'`;
-- Push a branch que você criou: `git push origin my-feature`.
+- Fork the project;
+- Create a new branch: `git checkout -b my-feature`;
+- Commit your chanches: `git commit -m 'feat: My new feature'`;
+- Push the new branch: `git push origin my-feature`.
 
 <h2 id="author"> Author </h2> 
 
