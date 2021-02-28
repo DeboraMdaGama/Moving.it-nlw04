@@ -1,0 +1,76 @@
+.sideBarContainer{
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+    height: 100%;
+    width: 6.5rem;/* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: var(--black); /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    justify-items: center;
+    padding-top: 20px;
+}
+
+
+.sideBarButtons{
+    margin-top: 40px;
+}
+
+.sideBarButtons button{
+    width: 100%;
+    padding:1rem 2.5rem;  
+    font-size: 1.8rem;
+    color: var(--white);
+    background-color: var(--black); 
+    border: 0;
+    border-left: 1px solid var(--black);
+}
+
+button.sideBarHomeButton:hover{
+    border-left: 1px solid var(--green);
+    color: var(--green);
+}
+
+button.sideBarRankingButton:hover{
+    border-left: 1px solid var(--green);
+    color: var(--green);
+}
+
+.sideBarFooter{
+    display: flex;
+    position: relative;
+}
+
+.sideBarFooter button{
+    width: 100%;
+    padding:1rem 2.5rem;  
+    font-size: 1.8rem;
+    color: var(--white);
+    background-color: var(--black); 
+    border: 0;
+    border-left: 1px solid var(--black);
+}
+
+.sideBarFooter button:hover{
+    color: var(--red);
+    border-left: 1px solid var(--red);
+}
+
+@media (max-width: 720px) {
+    .sideBarContainer{
+        width: 4.5rem;
+    }
+    .sideBarContainer img{
+        width: 2.5rem;
+    }
+    .sideBarButtons button{
+        font-size: 1.4rem;
+        padding:1rem 0;  
+    }
+    .sideBarFooter button{
+        font-size: 1.4rem;
+        padding:1rem 0;  
+    }
+}
