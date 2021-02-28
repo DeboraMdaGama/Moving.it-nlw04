@@ -15,7 +15,11 @@
 
 <h1 align="center">
   <img width="400" height="auto" alt="" src="/public/assets/home.png" />
+  <img width="400" height="auto" alt="" src="/public/assets/countdown.png" />
+</h1>
+<h1 align="center">
   <img width="400" height="auto" alt="" src="/public/assets/challenges.png" />
+  <img width="400" height="auto" alt="" src="/public/assets/levelup.png" />
 </h1>
 
 
